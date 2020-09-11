@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayExercises/ArrayExercises.iml" filepath="$PROJECT_DIR$/ArrayExercises/ArrayExercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CollectionTest/CollectionTest.iml" filepath="$PROJECT_DIR$/CollectionTest/CollectionTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CommonlyUsedClass/CommonlyUsedClass.iml" filepath="$PROJECT_DIR$/CommonlyUsedClass/CommonlyUsedClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSE.iml" filepath="$PROJECT_DIR$/JavaSE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReflectionTest/ReflectionTest.iml" filepath="$PROJECT_DIR$/ReflectionTest/ReflectionTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mulitiThread/mulitiThread.iml" filepath="$PROJECT_DIR$/mulitiThread/mulitiThread.iml" />
+    </modules>
+  </component>
+</project>
